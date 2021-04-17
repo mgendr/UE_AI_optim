@@ -4,7 +4,8 @@ Durant ce projet nous avons cherchés à trouver des compromis intéressants ent
 Ce code utilise la librairie pytorch afin de mettre en place nos réseaux de neurones.
 ## Organisation du Github
 
-Vous pourrez retrouver les différents modèles que nous avons obtenus dans le dossier "models".
+Vous pourrez retrouver les différents modèles que nous avons obtenus dans le dossier "models". Dans ce même dossier vous retrouverez les analyses que nous avons effectués sur nos réseaux.
+
 Les codes que nous avons produits sont disponibles au format notebook .ipynb ou python .py.
 
 
