@@ -1,5 +1,5 @@
 # UE_AI_optim
-Durant ce projet nous avons cherchés à trouver des compromis intéressants entre la taille et l'efficacité de différents réseaux de neurones. Ce projet prend place durant l'une des UE que nous avons suivi à l'IMT Atlantique.
+Durant ce projet nous avons cherchés à trouver des compromis intéressants entre la taille et l'efficacité de différents réseaux de neurones. Ce projet prend place durant l'une des UE que nous avons suivi à l'IMT Atlantique. Nous avions comme consigne de suivre les le cadre du micronet challenge.
 
 Ce code utilise la librairie pytorch afin de mettre en place nos réseaux de neurones.
 ## Organisation du Github
@@ -12,3 +12,11 @@ Les codes que nous avons produits sont disponibles au format notebook .ipynb ou 
 ## Réseaux étudiés
 
 Nous avons effectués nos travaux sur VGG16 ainsis que sur MobileNet
+
+## Datasets
+
+Nous avons travaillé sur le dataset cifar.
+Dans une première approche nous avons travaillé sur minicifar : 5000 images d'entraînement, 1000 images de test et 3 classes.
+Dans un second temps, nous avons cherchés à optimiser nos réseaux de neurones sur cifar 10 : 50 000 images d'entraînement, 10 000 images de test et 10 classes
+
+
